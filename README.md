@@ -1,9 +1,8 @@
 # $${\color{lightblue}Getting \space Started \space with \space Virtualization \space and \space Linux \space Distributions}$$
 
-
-
-<h3><summary>Description & Requirements</summary></h3>
-<details>
+<a id="descr"></a>
+<h4 align="center"><summary>Description & Requirements</summary></h4>
+<details align="center">
 <summary></summary>
     <ol>
     <details>
@@ -48,7 +47,7 @@
 <details align="center">
 <summary></summary>
     <ol>
-    <a href="#description-&-requirements">Description & Requirements</a>
+    <a href="#descr">Description & Requirements</a>
     </ol>
 
 <ol>
@@ -95,16 +94,19 @@
 Launch your browser and head over to the <a href="https://www.virtualbox.org/">Oracle VirtualBox VM official site</a>: 
 <br/>
 <br/>
-<img src=".gif\1-Oracle-VirtualBoxDownload.gif" height="60%" width="60%" alt="Oracle VirtualBox VM Aquisition"/>
+<img src="./gifs/1-Oracle-VirtualBoxDownload.gif" height="60%" width="60%" alt="Oracle VirtualBox VM Aquisition"/>
 <br/>
 <br/><a id="gif2"></a>
 <br/>
-Run the <b>.exe</b> file we just <a href="https://www.virtualbox.org/wiki/Downloads">downloaded</a> to install Oracle VirtualBox VM:<br/><br/>
-<img src=".gif\1.1-Oracle-VirtualBoxInstall.gif" height="60%" width="60%" alt="Oracle VB Installation"/>
+Run the <b>.exe</b> file we just <a href="https://www.virtualbox.org/wiki/Downloads">downloaded</a> to install Oracle VirtualBox VM:
+<br/>
+<br/>
+<img src="./gifs/1.1-Oracle-VirtualBoxInstall.gif" height="60%" width="60%" alt="Oracle VB Installation"/>
 <br/>
 </p>
-<pre align="center">
-<h1>🎉🎉🎉</h1><b>CONGRATULATIONS!</b> You just downloaded and installed Oracle VirtualBox VM!<h1>🥳</h1>
+
+<h1 align="center">🎉🎉🎉 <b>CONGRATULATIONS!</b> 🎉🎉🎉</h1>
+<p align="center">You just downloaded and installed Oracle VirtualBox VM! 🥳</p>
 </pre>
 <br/>
 <br/>
@@ -121,14 +123,14 @@ Run the <b>.exe</b> file we just <a href="https://www.virtualbox.org/wiki/Downlo
 Launch your browser and head over to the <a href="https://www.debian.org/">official Debian website</a>: 
 <br/>
 <br/>
-<img src=".gif\2-Oracle-DebianISODownload.gif" height="60%" width="60%" alt="Debian ISO Aquisition"/>
+<img src="./gifs/2-Oracle-DebianISODownload.gif" height="60%" width="60%" alt="Debian ISO Aquisition"/>
 <br/>
 <br/><a id="gif4"></a>
 <br/>
 Create a new VM in the <b>Oracle VirtualBox Manager</b>, and Attach the <b>.iso</b> file we just <a href="https://www.debian.org/download">downloaded</a>
 <br/>
 <br/>
-<img src=".gif\2.1-Oracle-DebianISOinstall.gif" height="60%" width="60%" alt="Debian in VB"/>
+<img src="./gifs/2.1-Oracle-DebianISOinstall.gif" height="60%" width="60%" alt="Debian in VB"/>
 <br/>
 <br/>
 <br/><a id="gif5"></a>
@@ -136,7 +138,7 @@ Create a new VM in the <b>Oracle VirtualBox Manager</b>, and Attach the <b>.iso<
 Enable <b>EUFI</b> and start the virtual machine.
 <br/>
 <br/>
-<img src=".gif\2.2-Oracle-DebianInstallEUFIsetting.gif" height="60%" width="60%" alt="Debian in VB"/>
+<img src="./gifs/2.2-Oracle-DebianInstallEUFIsetting.gif" height="60%" width="60%" alt="Debian in VB"/>
 <br/>
 <br/>
 <br/><a id="gif6"></a>
@@ -144,7 +146,7 @@ Enable <b>EUFI</b> and start the virtual machine.
 Follow the <b>installer</b> and configure the system.
 <br/>
 <br/>
-<img src=".gif\3.1-Oracle-DebianGnomeInstall.gif" height="60%" width="60%" alt="Debian in VB"/>
+<img src="./gifs/3.1-Oracle-DebianGnomeInstall.gif" height="60%" width="60%" alt="Debian in VB"/>
 <br/>
 <br/>
 <br/><a id="gif7"></a>
@@ -152,7 +154,7 @@ Follow the <b>installer</b> and configure the system.
 Log in with the credentials we created to enter the <b>GNOME</b> desktop environment.
 <br/>
 <br/>
-<img src=".gif/3.2-Oracle-Gnomelaunch.gif" height="60%" width="60%" alt="Debian in VB"/>
+<img src="./gifs/3.2-Oracle-Gnomelaunch.gif" height="60%" width="60%" alt="Debian in VB"/>
 <pre align="center">
 <h1>🎉🎉🎉</h1><b>CONGRATULATIONS!</b> You just installed GNOME, a Linux distro, onto a virtual machine!<h1>🥳</h1>
 </pre>
