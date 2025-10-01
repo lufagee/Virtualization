@@ -149,7 +149,10 @@ Follow the <b>installer</b> and configure the system.
 <img src="./gifs/3.1-Oracle-DebianGnomeInstall.gif" height="60%" width="60%" alt="Debian in VB"/>
 <br/>
 <br/>
-<br/><a id="gif7"></a>
+<br/>
+<a id="gif7"></a>
+    
+## GNOME Desktop Environment
 <p align ="center">
 Log in with the credentials we created to enter the <b>GNOME</b> desktop environment.
 <br/>
