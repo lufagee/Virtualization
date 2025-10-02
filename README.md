@@ -1,3 +1,4 @@
+<!-- Back to top link -->
 <a id="readme-top"></a>
 
 # $${\color{lightblue}Getting \space Started \space with \space Virtualization \space and \space Linux \space Distributions}$$
@@ -111,7 +112,7 @@ Run the <b>.exe</b> file we just <a href="https://www.virtualbox.org/wiki/Downlo
 
 <h2 align="center">🎉🎉🎉 <b>CONGRATULATIONS!</b> 🎉🎉🎉</h2>
 <p align="center">You just downloaded and installed Oracle VirtualBox VM! 🥳</p>
-
+<p align="right">(<a href="#readme-top"><strong>back to top »</strong></a>)</p>
 <br/>
 <br/>
 <br/>
@@ -158,8 +159,9 @@ Log in with the credentials we created to enter the <b>GNOME</b> desktop environ
 <br/>
 <br/>
 <img src="gifs/3.2-Oracle-Gnomelaunch.gif" height="60%" width="60%" alt="Debian in VB"/>
+</p>
 
-<h1 align="center">🎉🎉🎉 <b>CONGRATULATIONS!</b> 🎉🎉🎉</h1>
+<h2 align="center">🎉🎉🎉 <b>CONGRATULATIONS!</b> 🎉🎉🎉</h2>
 <p align="center">You just installed GNOME, a Linux distro, onto a virtual machine!🥳</p>
 
 
