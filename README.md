@@ -1,8 +1,8 @@
 <!-- Back to top link -->
 <a id="readme-top"></a>
 
-## $${\color{lightblue}Getting \space Started \space with \space Virtualization \space and \space Linux \space Distributions}$$
-
+# $${\color{lightblue}Getting \space Started \space with \space Virtualization}$$
+## $${\color{lightblue}\space \space \space \space and \space Linux \space Distributions}$$
 
 <!------------- Overview & Requirements --------------->
 <a id="overview"></a>
